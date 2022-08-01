@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 <div align="center">
-    <br><hr><br>
+    <hr><br>
         <a href="https://profile-summary-for-github.com/user/Skov82">
-            <img height="155em" src="https://github-readme-stats.vercel.app/api?username=SKov82&show_icons=true&theme=dark&bg_color=000&title_color=fff&text_color=fff&count_private=true">
+            <img height="155em" src="https://github-readme-stats.vercel.app/api?username=SKov82&show_icons=true&theme=dark&bg_color=000&title_color=fff&text_color=fff&count_private=true"/>
 
             <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKov82&layout=compact&langs_count=7&theme=dark&bg_color=000&title_color=8A2BE2&text_color=8A2BE2"/>
         </a>
-    <br><hr><br>
+    <br><hr>
 </div>
 
 
