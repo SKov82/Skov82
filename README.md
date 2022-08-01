@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+
+<!--
+**SKov82/Skov82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 <div align="center">
     <hr><br>
         <a href="https://profile-summary-for-github.com/user/Skov82">
@@ -10,12 +15,6 @@
     <br><hr>
 </div>
 
-
-
-
-
-<!--
-**SKov82/Skov82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
 Here are some ideas to get you started:
